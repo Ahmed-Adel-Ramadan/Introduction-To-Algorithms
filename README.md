@@ -14,18 +14,17 @@ To keep things organized and avoid conflicts, we follow this structure:
 
   • `Any prefared language`
   • Please add this template in the begining of your code files
-  ```python
-    """
+  ```cpp
+    /*
     Chapter:      02 - Getting Started
     Algorithm:    Merge Sort (Divide and Conquer)
     Contributor:  [Student Name / GitHub Username]
-    Date:         YYYY-MM-DD
     Complexity:   O(n log n)
     --------------------------------------------------------------------
     Description: 
     
-    ====================================================================
-    """
+    --------------------------------------------------------------------
+    */
 ```
 
 • `/Resources`: Helpful diagrams, cheat sheets, or external links.
